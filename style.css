@@ -1,0 +1,22 @@
+body { background: url(1626992258_31-kartinkin-com-p-temnovatii-fon-krasivo-32.jpg);
+		background-attachment: fixed; 
+		font-family: font-family: Roboto Condensed;
+		font-size: 30px;
+		color: #FFC0CB;
+		text-align: center;
+	text-shadow: 2px 2px 3px #B0E0E6;}
+.photo{
+text-align: left;
+margin-left: 10%;
+}
+.text{
+	text-align: right;
+	width: 40%;
+	margin-top: -19%;
+    margin-left:60%;
+    font-size: 30px;
+}
+.spisok{
+	width: 80%;
+	text-align: left;
+}
